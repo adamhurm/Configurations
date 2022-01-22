@@ -1,3 +1,9 @@
+# BIGTREETECH SKR Mini E3 V2.0
+
+This is a fork for my custom configuration file.
+
+----------------
+
 # Configurations
 Pre-tested Configurations for Marlin Firmware. Links below…
 
