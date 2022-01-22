@@ -1,1 +1,0 @@
-config/examples/Creality/Ender-3 Pro/BigTreeTech SKR Mini E3 2.0/Configuration.h
