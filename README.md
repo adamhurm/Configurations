@@ -1,6 +1,7 @@
 # BIGTREETECH SKR Mini E3 V2.0
 
-This is a fork for my custom configuration file.
+- [Configuration.h](config/examples/Creality/Ender-3%20Pro/BigTreeTech%20SKR%20Mini%20E3%202.0/Configuration.h)
+- [Configuration_adv.h](/config/examples/Creality/Ender-3%20Pro/BigTreeTech%20SKR%20Mini%20E3%202.0/Configuration_adv.h)
 
 ----------------
 
